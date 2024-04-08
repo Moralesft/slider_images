@@ -1,1 +1,3 @@
-![alt text] (images/imagen1.png) "imagen descripcion"
+![](https://github.com/Moralesft/slider_images/blob/master/images/imagen1.jpg)
+
+
